@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="Know_Microsoft.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Know_Microsoft"
+    xmlns:localData="using:Know_Microsoft.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+        <x:String x:Key="AppName">Know_Microsoft</x:String>
+    </Application.Resources>
+</Application>
+

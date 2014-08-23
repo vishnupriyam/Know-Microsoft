@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HARSHA</Machine>
+    <WindowsUser>Chinna</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0920cecc-543a-4625-b3b0-139cb7ac0416</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F4FBB728130333CED03E36E6261F0CF17E8E94DB92F0BFDAA40717EDA64A2867</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0920cecc-543a-4625-b3b0-139cb7ac0416_1.0.0.0_neutral__tzsqvxgpfgn4r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0920cecc-543a-4625-b3b0-139cb7ac0416_tzsqvxgpfgn4r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0920cecc-543a-4625-b3b0-139cb7ac0416</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Chinna</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-21T16:49:13.561</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.exe">
+      <PackagePath>Know Microsoft.exe</PackagePath>
+      <Modified>2014-08-23T09:09:27.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-3d.jpg">
+      <PackagePath>Images\microsoft-3d.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-back.jpg">
+      <PackagePath>Images\microsoft-back.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-ball.jpg">
+      <PackagePath>Images\microsoft-ball.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-bubble.jpg">
+      <PackagePath>Images\microsoft-bubble.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-grass.jpg">
+      <PackagePath>Images\microsoft-grass.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-grid.jpg">
+      <PackagePath>Images\microsoft-grid.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-metal.jpg">
+      <PackagePath>Images\microsoft-metal.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-plate.jpg">
+      <PackagePath>Images\microsoft-plate.jpg</PackagePath>
+      <Modified>2014-08-18T09:17:04.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-08-21T12:00:14.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-18T09:04:08.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2014-08-21T20:15:04.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Quiz.xbf">
+      <PackagePath>Quiz.xbf</PackagePath>
+      <Modified>2014-08-23T09:09:27.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2014-08-18T15:12:36.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.xr.xml">
+      <PackagePath>Know Microsoft.xr.xml</PackagePath>
+      <Modified>2014-08-23T09:09:27.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-21T16:49:13.276</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

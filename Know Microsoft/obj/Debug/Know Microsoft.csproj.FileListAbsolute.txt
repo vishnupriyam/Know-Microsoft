@@ -1,0 +1,42 @@
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\App.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\ItemsPage.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\SplitPage.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.xr.xml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.exe
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.pdb
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\resources.pri
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\AppxManifest.xml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.build.appxrecipe
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\App.g.i.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\App.g.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\ItemsPage.g.i.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\ItemsPage.g.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\SplitPage.g.i.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\SplitPage.g.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\XamlTypeInfo.g.cs
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\App.xaml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\SplitPage.xaml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\App.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\SplitPage.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\XamlSaveStateFile.xml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\ItemsPage.xaml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\ItemsPage.xbf
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Know Microsoft.exe
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Know Microsoft.pdb
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\priconfig.xml
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\priconfig.xml.intermediate
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\layout.resfiles
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\layout.resfiles.intermediate
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\resources.resfiles
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\resources.resfiles.intermediate
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\pri.resfiles
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\pri.resfiles.intermediate
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\qualifiers.txt
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\qualifiers.txt.intermediate
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Quiz.xbf
+C:\Users\Chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Quiz.g.i.cs
+C:\Users\Chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Quiz.g.cs
+C:\Users\Chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Quiz.xaml
+C:\Users\Chinna\documents\visual studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\Quiz.xbf

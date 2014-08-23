@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HARSHA</Machine>
+    <WindowsUser>Chinna</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0920cecc-543a-4625-b3b0-139cb7ac0416</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.exe">
+      <PackagePath>Know Microsoft.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-3d.jpg">
+      <PackagePath>Images\microsoft-3d.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-back.jpg">
+      <PackagePath>Images\microsoft-back.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-ball.jpg">
+      <PackagePath>Images\microsoft-ball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-bubble.jpg">
+      <PackagePath>Images\microsoft-bubble.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-grass.jpg">
+      <PackagePath>Images\microsoft-grass.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-grid.jpg">
+      <PackagePath>Images\microsoft-grid.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-metal.jpg">
+      <PackagePath>Images\microsoft-metal.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Images\microsoft-plate.jpg">
+      <PackagePath>Images\microsoft-plate.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Quiz.xbf">
+      <PackagePath>Quiz.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\Know Microsoft.xr.xml">
+      <PackagePath>Know Microsoft.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chinna\Documents\Visual Studio 2013\Projects\Know Microsoft\Know Microsoft\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
